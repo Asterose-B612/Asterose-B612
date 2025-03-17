@@ -36,7 +36,7 @@
 
 <br>
 <br>
-<h3 align="center">¡Gracias por visitar mi perfil! 🌈✨</h3>
+<!--<h3 align="center">¡Gracias por visitar mi perfil! 🌈✨</h3>-->
 <h4 align="center">Estoy abierta a oportunidades y conexiones de colaboración. ¡Contáctame para discutir proyectos o compartir conocimientos! </h4>
 
 
