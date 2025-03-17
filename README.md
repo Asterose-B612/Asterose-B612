@@ -1,10 +1,5 @@
 
-<head>
-  <!-- Agregar Font Awesome para los íconos -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
 
-<body>
 <div style="display: flex;">
 <p align="center" width="300">
    <h1 align="center">¡Hola👋! Soy Karina Rosa</h1>
@@ -95,7 +90,7 @@
 <h3 align="center">¡Gracias por visitar mi perfil! 🌈✨</h3>
 <h4 align="center">Estoy abierta a oportunidades y conexiones de colaboración. ¡Contáctame para discutir proyectos o compartir conocimientos! </h4>
 
-</body>
+
 
 
 
