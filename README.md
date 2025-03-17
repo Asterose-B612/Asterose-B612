@@ -28,7 +28,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,js,php,flutter,nodejs,ex, mongodb, mysql,git,github,postman,vscode />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,ex,mongodb,php,mysql,,git,github,postman,vscode" />
   </a>
 </p>
   
@@ -36,7 +36,7 @@
 
 <br>
 <br>
-
+<h3 align="center">¡Gracias por visitar mi perfil! 🌈✨</h3>
 <h4 align="center">Estoy abierta a oportunidades y conexiones de colaboración. ¡Contáctame para discutir proyectos o compartir conocimientos! </h4>
 
 
