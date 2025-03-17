@@ -1,7 +1,6 @@
-<p align="center">
   # ¡Hola 👋! Soy Karina Rosa  
   ### Desarrolladora Full Stack MERN
-</p> 
+
 
 <p align="center">
   <a href="https://linkedin.com/in/karinarosadev" target="_blank">
