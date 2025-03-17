@@ -8,7 +8,7 @@
 <br>
 
 <p>
-  ***Actualmente, estoy ganando experiencia profesional como freelance desarrollando sitios web. Mientras construyo una base sólida, me encuentro ampliando mis conocimientos para ofrecer soluciones integrales. Poseo experiencia previa en recursos gráficos y tecnológicos, además de experiencia en la satisfacción del usuario, habiendo trabajado como diseñadora de interiores. 
+  ***Actualmente, estoy ganando experiencia profesional como freelance desarrollando sitios web. Mientras construyo una base sólida, me encuentro ampliando mis conocimientos para ofrecer soluciones integrales. Poseo experiencia previa en recursos gráficos y tecnológicos, además de la experiencia de usuario, habiendo trabajado como diseñadora de interiores.  
   Tengo muchas ganas de seguir creciendo en el mundo de la programación, ¡aprendiendo más cada día!***
 </p>
 
@@ -19,9 +19,9 @@
 </p>
 
 <h3 align="left">Habilidades Técnicas:</h3>
-
-
 <br>
+
+
  <!--FRONTEND-->
  <!--HTML-->
  <div style="display: flex;">
